@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a49050a1.chunk.css",
+    "main.js": "./static/js/main.e0ba7c85.chunk.js",
+    "main.js.map": "./static/js/main.e0ba7c85.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ddb5cb15.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ddb5cb15.js.map",
+    "static/js/2.0c3cba1e.chunk.js": "./static/js/2.0c3cba1e.chunk.js",
+    "static/js/2.0c3cba1e.chunk.js.map": "./static/js/2.0c3cba1e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a49050a1.chunk.css.map": "./static/css/main.a49050a1.chunk.css.map",
+    "static/js/2.0c3cba1e.chunk.js.LICENSE.txt": "./static/js/2.0c3cba1e.chunk.js.LICENSE.txt",
+    "static/media/chevron-down.371c0b7e.svg": "./static/media/chevron-down.371c0b7e.svg",
+    "static/media/d3signLogo.b9c37d2e.png": "./static/media/d3signLogo.b9c37d2e.png",
+    "static/media/metamaskLogo.d9c41a56.png": "./static/media/metamaskLogo.d9c41a56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddb5cb15.js",
+    "static/js/2.0c3cba1e.chunk.js",
+    "static/css/main.a49050a1.chunk.css",
+    "static/js/main.e0ba7c85.chunk.js"
+  ]
+}
